@@ -38,3 +38,8 @@ Uso académico exclusivo para UTN.
 El programa `TP_A.py` solicita al usuario dos números de DNI y realiza operaciones de teoría de conjuntos con los dígitos de cada número. Calcula la unión, intersección y diferencia de los conjuntos de dígitos, muestra la frecuencia de cada dígito, suma los dígitos de cada número y evalúa varias expresiones lógicas sobre los conjuntos. Además, presenta los resultados en lenguaje natural para facilitar su interpretación. Todo está orientado a aplicar conceptos matemáticos y de programación en Python.
 
 El programa `TP_B.py` solicita al usuario que ingrese dos años de nacimiento y realiza distintas operaciones matemáticas y lógicas con esos datos. Cuenta cuántos años son pares e impares, verifica si todos los años ingresados son posteriores al 2000 (para identificar si pertenecen al "Grupo Z"), determina si alguno de los años es bisiesto, calcula la edad correspondiente a cada año considerando el año actual (2025) y finalmente muestra el producto cartesiano entre los años y las edades calculadas. Todo esto se presenta de forma clara por pantalla.
+
+## Anexo
+
+- Youtube: `https://youtu.be/hfKS668CIGE`
+- TP PDF: `TPIntegrador-2-Matematica.py`
